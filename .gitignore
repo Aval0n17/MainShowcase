@@ -30,5 +30,5 @@ sysinfo.txt
 *.unitypackage
 
 # unity3d User
-*Temp
-*Library
+ $PROJDIR/Temp/
+ $PROJDIR/Library/
