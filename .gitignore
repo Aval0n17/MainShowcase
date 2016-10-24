@@ -30,5 +30,6 @@ sysinfo.txt
 *.unitypackage
 
 # unity3d User
-*Temp/
-*Library/
+Showcase/Temp/
+Showcase/Library/
+Showcase/Temp/UnityLockfile
